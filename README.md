@@ -1,4 +1,4 @@
-# 🕷️ Spider Vision Intelligence – User Research & Persona Creation
+# 🕷️ Spider Vision Intelligence – User Research & Personal Creation
 
 ## 📌 Project Overview
 
